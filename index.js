@@ -115,9 +115,9 @@ function Airplane(name) {
   /* 
     TASK 4
     In your own words explain the four principles for the "this" keyword below:
-    1. 
-    2. 
-    3. 
+    1. When "this" is used in a window/global binding refers to a global object
+    2. When "this" is used in implicit binding it is bound to a function
+    3. When 
     4. 
   */
   
